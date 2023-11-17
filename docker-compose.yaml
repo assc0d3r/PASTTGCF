@@ -2,6 +2,4 @@ services:
   arttgcf:
     #public: false
     build: .
-    environment:
-     PASSWORD: e^301080
-     MONGO_CON_STR: mongodb+srv://coder:e^301080@cluster0.sblbqo4.mongodb.net/?retryWrites=true&w=majority
+    
